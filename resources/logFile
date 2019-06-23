@@ -1,0 +1,20 @@
+03-06-2019 10:17:11 DEBUG [main] Starter - This is a Debugger
+03-06-2019 10:17:11 INFO [main] Starter - This is Info
+03-06-2019 10:17:11 WARN [main] Starter - This is a Warning
+03-06-2019 10:17:11 ERROR [main] Starter - This is an Error
+03-06-2019 10:17:11 FATAL [main] Starter - This is Fatal
+03-06-2019 10:17:47 DEBUG [main] Starter - This is a Debugger
+03-06-2019 10:17:47 INFO [main] Starter - This is Info
+03-06-2019 10:17:47 WARN [main] Starter - This is a Warning
+03-06-2019 10:17:47 ERROR [main] Starter - This is an Error
+03-06-2019 10:17:47 FATAL [main] Starter - This is Fatal
+03-06-2019 10:24:14 DEBUG [main] Starter - class Starter
+03-06-2019 10:24:14 INFO [main] Starter - This is Info
+03-06-2019 10:24:14 WARN [main] Starter - This is a Warning
+03-06-2019 10:24:14 ERROR [main] Starter - This is an Error
+03-06-2019 10:24:14 FATAL [main] Starter - This is Fatal
+03-06-2019 14:28:13 DEBUG [main] Starter - This is a Debugger
+03-06-2019 14:28:13 INFO [main] Starter - This is Info
+03-06-2019 14:28:13 WARN [main] Starter - This is a Warning
+03-06-2019 14:28:13 ERROR [main] Starter - This is an Error
+03-06-2019 14:28:13 FATAL [main] Starter - This is Fatal
